@@ -1,0 +1,16 @@
+{
+  "plugins": {
+    "sentinela-agent": {
+      "versao": "1.3.1",
+      "sha256": "59fff14d697094edee991b70c78a71e2f4dba37d26a20037f3916f5062fed8be",
+      "assinatura": "7P63Wz76Qzwps4yVBLSAGdRreqFqhz7TIqAMpbjJ4NUuNuFivm87bVoLXZATCKpXtDdxETz138mPYW89yZagDQ==",
+      "requer_php": "7.4"
+    },
+    "blindagem": {
+      "versao": "1.4.1",
+      "sha256": "c4d9952fbb2bb431e8a45b75f991d56f0214b2296cf9abf028d2551a40b91c51",
+      "assinatura": "whrpoirD2/eEJ5camvuxkEV2sU8qqsHJZo/2polKzy5SMvMtxS3PvnuAXP+4Gtag+GAui/dgcq95Op0FlCJlAA==",
+      "requer_php": "7.4"
+    }
+  }
+}
