@@ -1,9 +1,9 @@
 {
   "plugins": {
     "sentinela-agent": {
-      "versao": "1.3.1",
-      "sha256": "59fff14d697094edee991b70c78a71e2f4dba37d26a20037f3916f5062fed8be",
-      "assinatura": "7P63Wz76Qzwps4yVBLSAGdRreqFqhz7TIqAMpbjJ4NUuNuFivm87bVoLXZATCKpXtDdxETz138mPYW89yZagDQ==",
+      "versao": "1.3.2",
+      "sha256": "ece6bd65a6e453c2d8c7d25df204bc5ccd41825f191b33739ff234253f94513a",
+      "assinatura": "LJu59Ai+Oatn6z1RN3pqwpOaNNVbAmUAts1bVchDsUAE18S5Te+npxorI3i/EL5LK8VA9yFFfWFL7s+ic+PPAw==",
       "requer_php": "7.4"
     },
     "blindagem": {
