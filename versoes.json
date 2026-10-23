@@ -7,9 +7,9 @@
       "requer_php": "7.4"
     },
     "blindagem": {
-      "versao": "1.4.1",
-      "sha256": "c4d9952fbb2bb431e8a45b75f991d56f0214b2296cf9abf028d2551a40b91c51",
-      "assinatura": "whrpoirD2/eEJ5camvuxkEV2sU8qqsHJZo/2polKzy5SMvMtxS3PvnuAXP+4Gtag+GAui/dgcq95Op0FlCJlAA==",
+      "versao": "1.4.2",
+      "sha256": "ebc362df2ba78469969157fe54a8682966ee317554a8fafbd74fe0a1743c5e43",
+      "assinatura": "2pW27gJ8Cszu6uaBJjjv12Ol7O0M4WbhtNZ4FH1nz4h/CdXOR0qxJq4UfKREXAp2O0SSeqnBx+YQl79vV+N8BQ==",
       "requer_php": "7.4"
     }
   }
